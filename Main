@@ -6,3 +6,5 @@ game:GetService("StarterGui"):SetCore(
         Icon = "rbxassetid://14028024072"
     }
 )
+
+setclipboard("https://discord.gg/3Z5HKzKtcj")
