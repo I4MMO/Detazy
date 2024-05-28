@@ -1,1 +1,8 @@
-
+game:GetService("StarterGui"):SetCore(
+    "SendNotification",
+    {
+        Title = "Detazy Is Down",
+        Text = "Buy Detazy light in the discord(works on solara)",
+        Icon = "rbxassetid://14028024072"
+    }
+)
