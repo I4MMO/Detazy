@@ -7,4 +7,14 @@ game:GetService("StarterGui"):SetCore(
     }
 )
 
+game:GetService("StarterGui"):SetCore(
+    "SendNotification",
+    {
+        Title = "Well be back",
+        Text = "Give us some time to update",
+        Icon = "rbxassetid://14028024072"
+    }
+)
+
+
 setclipboard("https://discord.gg/3Z5HKzKtcj")
