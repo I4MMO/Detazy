@@ -1,5 +1,5 @@
 
-local codes = {
+ {
 'DRUMSHOTGUN',
 'TRADEME!',
 "pumpkins2023",
@@ -11,4 +11,4 @@ local codes = {
 "BLAZE"
 }
 
-return codes
+
