@@ -1,5 +1,5 @@
-return 
-{
+
+local codes = {
 'DRUMSHOTGUN',
 'TRADEME!',
 "pumpkins2023",
@@ -10,3 +10,5 @@ return
 "CROW",
 "BLAZE"
 }
+
+return codes
